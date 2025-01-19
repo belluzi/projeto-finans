@@ -1,5 +1,7 @@
 # Finans - Landing Page
 
+![Finans - Print 01](img/scr01 "Página Inicial - Print 01")
+
 ## Sobre o Projeto
 A **Finans** é uma landing page desenvolvida para promover um aplicativo de finanças pessoais que ajuda os usuários a controlar seus gastos, criar orçamentos e alcançar suas metas financeiras de forma inteligente.
 
